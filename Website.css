@@ -1,0 +1,37 @@
+h1{
+    color: 990099;
+    background-color: rgb(195, 243, 20);
+    align-content: center;
+    font-size: 4em;
+    font-weight: 850;
+}
+h2{
+    color: 990099;
+    background-color: rgb(195, 243, 20);
+    align-content: center;
+}
+.navBar{
+    background-color: rgb(231, 23, 127);
+    align-content: center;
+}
+
+a{
+    background-color: rgb(236, 233, 11);
+    color: black;
+    font-size: 3em;
+    font-weight: 800;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin: 5px;
+}
+
+p{
+    background-color: rgb(195, 243, 20);
+    font-size: 2em;
+}
+
+body{
+    background-color: rgb(137, 231, 49);
+}
